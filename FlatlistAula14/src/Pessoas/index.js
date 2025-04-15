@@ -16,3 +16,19 @@ class Pessoas extends Component{
         );
     }
 }
+
+const styles = StyleSheet({
+    container:{
+        flex:1,
+        algnltems:'center',
+        justifyContent:'center'
+    },
+    area:{
+        backgroundColor:'blue',
+        height:200,
+        marginTop:15
+    },
+    cabecalho:{
+        alignlte
+    }
+})
